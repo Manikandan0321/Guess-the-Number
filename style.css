@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(255, 15, 223);
+    display: flex;
+    justify-content: center;
+
+}
+.section_1{
+    
+    align-items: center;
+    justify-items: center;
+    margin-top: 250px;
+    border: solid;
+    width: 500px;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow:0px 0px 50px rgb(17, 0, 255) ;
+}
+button{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
